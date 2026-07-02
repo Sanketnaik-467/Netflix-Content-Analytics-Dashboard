@@ -5,7 +5,7 @@
 
 This project presents an interactive **Blinkit Sales Performance Dashboard** developed using **Power BI** to analyze sales performance, outlet characteristics, product categories, and customer ratings. The dashboard transforms raw retail sales data into meaningful business insights, enabling users to monitor key performance indicators (KPIs), identify sales trends, evaluate outlet performance, and support data-driven business decisions through interactive visualizations and filters.
 
- [Click Here View Interactive Power BI Dashboard](https://github.com/Sanketnaik-467/Blinkit-Sales-Performance-Dashboard/blob/40b684ef2e6ad980ffdb933dca9ca79df1489817/Blinkit%20Sales%20Performance%20Analysis%20Dashboard.pbix)
+ [Click Here View Interactive Power BI Dashboard](https://github.com/Sanketnaik-467/Netflix-Content-Analytics-Dashboard/blob/49205961a95a54c1c6cc32a108cd51edc23f4a07/Netflix_Content_Analytics_Dashboard.pbix)
 <br><br>
 
 ## Business Challenge
@@ -34,9 +34,9 @@ Using Power BI, I designed and developed an interactive dashboard that consolida
 
 ## Dashboard Preview
 
-## Blinkit Sales Performance Dashboard Overview
+## Netflix-Content-Analytics-Dashboard Overview
 
-<img src="https://github.com/Sanketnaik-467/Blinkit-Sales-Performance-Dashboard/blob/f2e247f9c4c69fdf55f6a53d7667ad4f2625f045/Blinkit_Analysis_Dashboard.png" alt="Image Description" width="600">
+<img src="https://github.com/Sanketnaik-467/Netflix-Content-Analytics-Dashboard/blob/49205961a95a54c1c6cc32a108cd51edc23f4a07/Netflix_Content_Aanalytical_Dashboard.png" alt="Image Description" width="600">
 
 ## Outcome
 
