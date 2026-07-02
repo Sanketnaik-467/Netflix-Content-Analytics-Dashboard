@@ -24,13 +24,13 @@ Using **Power BI**, an interactive dashboard was designed to consolidate key Net
 
 • Year-wise analysis showing the growth of Netflix content added over time..
 
-• Product category analysis highlighting the highest and lowest selling item types.
+• Top 10 genre visualization highlighting the most popular content categories.
 
-• Outlet performance analysis based on Outlet Type, Outlet Size, and Outlet Location Tier.
+• Movies vs TV Shows comparison using a donut chart for quick content segmentation.
 
-• Interactive slicers for Outlet Location Type, Outlet Size, and Item Type enabling dynamic report filtering.
+• Dynamic slicers for Country, Type, Duration, and Release Year enabling flexible exploration.
 
-• Outlet comparison table presenting Total Sales, Number of Items, Average Sales, Average Rating, and Item Visibility.
+• Content Rating Distribution analysis across various audience classifications.
 
 ## Dashboard Preview
 
